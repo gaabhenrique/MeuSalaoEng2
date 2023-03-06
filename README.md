@@ -4,7 +4,9 @@ Projeto baseado na necessidade de uma cabeleireira de Sorocaba.
 # Descrição das funcionalidades
 
 Registro de clientes
+
 Registro de procedimentos
+
 Agendamento de procedimentos
 
 # Tecnologias usadas no projeto
