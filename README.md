@@ -1,15 +1,15 @@
 # MeuSalao
-Projeto baseado na necessidade de uma cabelereira de Sorocaba.
+Projeto baseado na necessidade de uma cabeleireira de Sorocaba.
 
-#Descrição das funcionalidades
+# Descrição das funcionalidades
 
 Registro de clientes
 Registro de procedimentos
 Agendamento de procedimentos
 
-#Tecnologias usadas no projeto
+# Tecnologias usadas no projeto
 
-Protótipagem: Figma
+Prototipagem: Figma
 
 BackEnd: NodeJS, Typescript.
 
