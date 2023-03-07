@@ -14,7 +14,7 @@ Por fim, o aplicativo para gerenciamento de clientes pode contribuir para o aume
 
 Prototipagem: Figma
 
-BackEnd: NodeJS, Typescript.
+BackEnd: NodeJS, Typescript, NestJs, GraphQL.
 
 FrontEnd: Typescript, HTML, CSS, React e React Native.
 
