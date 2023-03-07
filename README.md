@@ -18,6 +18,6 @@ BackEnd: NodeJS, Typescript.
 
 FrontEnd: Typescript, HTML, CSS, React e React Native.
 
-Banco de Dados: MySql.
+Banco de Dados: MySql, postgres(alternativo).
 
 Infra do Projeto: Render.
