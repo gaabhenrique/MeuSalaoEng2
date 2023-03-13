@@ -24,4 +24,4 @@ Infra do Projeto: Render.
 
 # Integrantes
 
-Gabrie Gonçalves
+Gabriel Gonçalves
