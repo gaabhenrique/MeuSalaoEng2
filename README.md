@@ -21,3 +21,7 @@ FrontEnd: Typescript, HTML, CSS, React e React Native.
 Banco de Dados: MySql, postgres(alternativo).
 
 Infra do Projeto: Render.
+
+# Integrantes
+
+Gabrie Gonçalves
