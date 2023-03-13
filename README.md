@@ -22,6 +22,12 @@ Banco de Dados: MySql, postgres(alternativo).
 
 Infra do Projeto: Render.
 
+# Prototipo
+
+Segue o link do prototipo feito no figma
+
+https://www.figma.com/file/J7r20WbrLk1AtuNq5BD2ea/Sal%C3%A3o?node-id=0%3A1&t=3nUV8nueAZvhm8UY-1
+
 # Integrantes
 
 Gabriel Gonçalves
