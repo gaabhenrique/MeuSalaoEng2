@@ -26,7 +26,7 @@ Infra do Projeto: Render.
 
 Segue o link do prototipo feito no figma
 
-https://www.figma.com/file/J7r20WbrLk1AtuNq5BD2ea/Sal%C3%A3o?node-id=0%3A1&t=3nUV8nueAZvhm8UY-1
+https://www.figma.com/file/jr9rYrovTZC5ZNmX0xx3lq/Meu-Sal%C3%A3o?node-id=0%3A1&t=RrqKsTsejtEjz8ON-1
 
 # Integrantes
 
