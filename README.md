@@ -28,6 +28,14 @@ Segue o link do prototipo feito no figma
 
 https://www.figma.com/file/jr9rYrovTZC5ZNmX0xx3lq/Meu-Sal%C3%A3o?node-id=0%3A1&t=RrqKsTsejtEjz8ON-1
 
+# Casos de uso UML
+
+https://lucid.app/lucidchart/3829bd6a-ae5c-476c-a4e7-12f282776c45/edit?viewport_loc=-1019%2C138%2C2725%2C1295%2C0_0&invitationId=inv_b19a807a-6749-477c-9145-c0611559d6c5
+
+# Modelo de Negocio
+
+https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_goncalves24_fatec_sp_gov_br/EXpmH8LrrldEjd2iPSl3HyIB6gqPUtNYWbnwjFKtmWcxhA?e=REB9Hq
+
 # Integrantes
 
 Gabriel Gonçalves
