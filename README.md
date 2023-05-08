@@ -36,6 +36,9 @@ https://lucid.app/lucidchart/3829bd6a-ae5c-476c-a4e7-12f282776c45/edit?viewport_
 
 https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_goncalves24_fatec_sp_gov_br/EXpmH8LrrldEjd2iPSl3HyIB6gqPUtNYWbnwjFKtmWcxhA?e=REB9Hq
 
+# Jornada do usuario
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/gabriel_goncalves24_fatec_sp_gov_br/EQCK2vqRxgxJtOB0qqwWToYBC8qrthgLNyzxDSV8FEAgIg?e=cA34Ll
+
 # Integrantes
 
 Gabriel Gonçalves
