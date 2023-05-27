@@ -39,6 +39,10 @@ https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_goncalves24_fatec_sp
 # Jornada do usuario
 https://fatecspgov-my.sharepoint.com/:x:/g/personal/gabriel_goncalves24_fatec_sp_gov_br/EQCK2vqRxgxJtOB0qqwWToYBC8qrthgLNyzxDSV8FEAgIg?e=cA34Ll
 
+# Modelo Conceitual
+
+https://lucid.app/lucidchart/2b78162d-5591-49f5-8e7b-1a22a841421e/edit?viewport_loc=-287%2C-503%2C2090%2C755%2C0_0&invitationId=inv_1f72a7b5-4125-4105-ae53-9449d189b801
+
 # Integrantes
 
 Gabriel Gonçalves
