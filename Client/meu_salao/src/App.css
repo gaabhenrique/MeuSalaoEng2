@@ -1,0 +1,141 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.client-list {
+  list-style: none;
+  padding: 0;
+}
+
+.client-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+.client-item .client-avatar {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.client-item .client-details {
+  flex-grow: 1;
+}
+
+.client-name {
+  font-weight: bold;
+}
+
+.client-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.edit-button,
+.delete-button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.edit-button {
+  background-color: #337ab7;
+  color: #fff;
+  border: none;
+}
+
+.delete-button {
+  background-color: #d9534f;
+  color: #fff;
+  border: none;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.search-bar button {
+  padding: 8px 12px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.search-bar button:hover {
+  background-color: #45a049;
+}
+
+.client-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.client-form h1 {
+  text-align: center;
+}
+
+.client-form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.client-form input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+.client-form button {
+  padding: 8px 12px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.client-form .button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.client-form .cancel-button {
+  background-color: red;
+  color: white;
+}
