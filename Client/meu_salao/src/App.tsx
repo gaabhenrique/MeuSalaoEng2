@@ -59,7 +59,7 @@ function App() {
   const [name, setName] = React.useState("");
   const [phoneNumber, setPhoneNumber] = React.useState("");
   const [rate, setRate] = React.useState(0);
-  const [clientId, setClientId] = React.useState(null);
+  const [clientId, setClientId] = React.useState<number | null>(null);
 
   const { loading, error, data } = useQuery(GET_CLIENTS);
 
