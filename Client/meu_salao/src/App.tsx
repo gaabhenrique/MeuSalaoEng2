@@ -2,6 +2,14 @@ import React from "react";
 import { useMutation, useQuery, gql } from "@apollo/client";
 import "./App.css";
 
+interface iClient {
+  id: number;
+  name: string;
+  phoneNumber: string;
+  profileImage: string;
+  rate: number;
+}
+
 const GET_CLIENTS = gql`
   query {
     clients {
@@ -116,7 +124,7 @@ function App() {
       });
   };
 
-  const handleDeleteClient = (id) => {
+  const handleDeleteClient = (id: number) => {
     deleteClient({
       variables: {
         id,
@@ -129,7 +137,7 @@ function App() {
   return (
     <div className="app-container">
       <form className="client-form">
-      <h1>{clientId ? "Editar Cliente" : "Criar Cliente"}</h1>
+        <h1>{clientId ? "Editar Cliente" : "Criar Cliente"}</h1>
         <label htmlFor="name">Nome:</label>
         <input
           type="text"
@@ -180,10 +188,10 @@ function App() {
       </div>
       <ul className="client-list">
         {clients
-          .filter((client) =>
+          .filter((client: iClient) =>
             client.name.toLowerCase().includes(searchQuery.toLowerCase())
           )
-          .map((client) => (
+          .map((client: iClient) => (
             <li key={client.id} className="client-item">
               <div>
                 <img
