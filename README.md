@@ -47,6 +47,12 @@ https://lucid.app/lucidchart/2b78162d-5591-49f5-8e7b-1a22a841421e/edit?viewport_
 
 https://fatecspgov-my.sharepoint.com/:w:/g/personal/gabriel_goncalves24_fatec_sp_gov_br/Ebe2u1mf7ytDumY0OQwNasIBAOrDepsg398QuuoC4xDOwA?e=3REnUH
 
+# Deploy do prototipo do projeto no render
+
+https://meusalaocliente.onrender.com/
+
+(Ao abrir o cliente, aguardar, pois o servidor demora alguns bons segundos para iniciar caso ele esteja parado)
+
 # Integrantes
 
 Gabriel Gonçalves
